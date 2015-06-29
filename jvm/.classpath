@@ -1,0 +1,15 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/scala"/>
+  <classpathentry kind="src" path="src/main/java"/>
+  <classpathentry kind="src" path="src/main/resources"/>
+  <classpathentry kind="src" path="src/test/scala"/>
+  <classpathentry kind="src" path="src/test/java"/>
+  <classpathentry kind="src" path="src/test/resources"/>
+  <classpathentry output="-home-jducoeur-GitHub-cssparse-shared-src-main-scala" kind="src" path="-home-jducoeur-GitHub-cssparse-shared-src-main-scala"/>
+  <classpathentry output="-home-jducoeur-GitHub-cssparse-shared-src-test-scala" kind="src" path="-home-jducoeur-GitHub-cssparse-shared-src-test-scala"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry kind="lib" path="/home/jducoeur/.ivy2/cache/com.lihaoyi/fastparse_2.11/jars/fastparse_2.11-0.2.1.jar"/>
+  <classpathentry kind="lib" path="/home/jducoeur/.ivy2/cache/com.lihaoyi/fastparse-utils_2.11/jars/fastparse-utils_2.11-0.2.1.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
